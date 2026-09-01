@@ -136,6 +136,6 @@ The model was trained on a single image for 200 epochs to overfit it. During inf
 | Up 1 (`up1` output, after skip concat) | ![up 1](images/up1.png) |
 | Upsample 2 (`upconv2` output) | ![upsample 2](images/upsample2.png) |
 | Up 2 (`up2` output, after skip concat) | ![up 2](images/up2.png) |
-| Final output | ![final output](images/final_output.png) |
+| Final output | ![final output](images/final_output_3ch.png) |
 
 *(Drop the corresponding PNGs into an `images/` folder in the repo — the filenames above are placeholders you can rename to match.)*
